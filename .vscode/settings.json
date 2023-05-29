@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MariaDB",
+            "name": "MariaDB_Connection",
+            "database": "dblibrary",
+            "username": "root",
+            "password": "1234"
+        }
+    ],
+    "scenebuilder.home": "C:\\Program Files\\SceneBuilder"
+}
